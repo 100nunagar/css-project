@@ -1,0 +1,21 @@
+header{
+  background-color: #C0C0C0;
+}
+h1{
+  text-transform: uppercase;
+  text-align:center;
+  color:#FFFFFF;
+}
+nav span,a {
+  color: #000000;
+  background-color: #CACFD2;
+}
+aside.left{
+  display:none;
+}
+section{
+  background-color:#737373;
+}
+h2{
+  color:#0000e6;
+}
